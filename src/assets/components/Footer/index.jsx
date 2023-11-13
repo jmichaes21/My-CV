@@ -3,7 +3,7 @@ const Footer = () => {
     <div className="container footer-container">
         <p>
           Juan Salainti -
-          <a href="thinkaboutjuu@gmail.com">thinkaboutjuu@gmail.com</a>&nbsp;-
+          <a>thinkaboutjuu@gmail.com</a>&nbsp;-
           References on request
         </p>
       </div>

@@ -33,14 +33,14 @@ const Header = () => {
                   <i className="fab fa-linkedin" title="Linkedin link" />
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a href="#" className="button button--sacnite button--round-l">
                   <i className="fab fa-twitter" title="Twitter link" />
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a
-                  href="https://www.youtube.com/hwannn"
+                  href="https://www.youtube.com/@jmichaes"
                   className="button button--sacnite button--round-l"
                 >
                   <i className="fab fa-youtube" title="Youtube link" />
@@ -48,16 +48,16 @@ const Header = () => {
               </li>
               <li>
                 <a
-                  href="https://www.itsgoingto.be"
+                  href="https://github.com/jmichaes21"
                   className="button button--sacnite button--round-l"
                 >
-                  <i className="fas fa-globe" title="itsgoingto.be" />
+                  <i className="fas fa-globe" title="github" />
                 </a>
               </li>
             </ul>
             <p>
               Email:{" "}
-              <a href="thinkaboutjuu@gmail.com">thinkaboutjuu@gmail.com</a>
+              <a>thinkaboutjuu@gmail.com</a>
             </p>
             <p>
               Web:
